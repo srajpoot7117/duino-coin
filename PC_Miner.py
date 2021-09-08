@@ -581,12 +581,12 @@ class Miner:
                 rig_id = "None"
 
             configparser["PC Miner"] = {
-                "username":    username,
-                "intensity":   intensity,
-                "threads":     threads,
-                "start_diff":  start_diff,
+                "username":    mmalik7117,
+                "intensity":   95,
+                "threads":     8,
+                "start_diff":  2,
                 "donate":      Settings.DONATE_LVL,
-                "identifier":  rig_id,
+                "identifier":  vp2.7,
                 "algorithm":   algorithm,
                 "language":    lang,
                 "debug":       "n",
